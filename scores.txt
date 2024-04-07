@@ -1,0 +1,5 @@
+Patrick pente 5 109.97
+Patrick chute 4 199.73
+Patrick trago 3 131.59
+Patrick datar 4 233.97
+Patrick coiro 4 117.74
